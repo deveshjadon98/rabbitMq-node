@@ -1,0 +1,14 @@
+{
+  "name": "rabbit-node",
+  "version": "1.0.0",
+  "description": "receive messages from RabbitMq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devesh",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
